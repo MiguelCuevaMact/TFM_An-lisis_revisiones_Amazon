@@ -8,7 +8,7 @@ Es por ello he decidido subir archivos en la nube personal que me otorga la Univ
 
 
 Para la ejecución de tablero interactivo realizado en el software Power BI, se quiere dos archivos para ejecutar:
-1  Dataset inicial.
+1.  Dataset inicial.
 
 2. Dataset resultante después del proyecto:  result.csv
 
