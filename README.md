@@ -12,8 +12,8 @@ Para la ejecución de tablero interactivo realizado en el software Power BI, se 
 1  Dataset inicial.
 
 2. Dataset resultante después del proyecto:  result.csv
-3. 
-4. Archivo de la implementación visual en Power BI.: Sentiment.pbix
+
+3. Archivo de la implementación visual en Power BI.: Sentiment.pbix
 
 Enlace de la nube personal: https://alumnosviu-my.sharepoint.com/personal/mcuevatacuri_alumnos_viu_es/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmcuevatacuri_alumnos_viu_es%2FDocuments%2FTFMVIU_MiguelAngelCuevaTacuri&ga=1
 
