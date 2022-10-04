@@ -4,13 +4,15 @@ Este repositorio fue desarrollado como parte del desarrollo de TFM, como informa
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 Debido a la configuración basica de GitHub no es posible subir archivo mayor a 25 MB,
-Es por ello he decidido subir archivos en la nube personal de la VIU y en la nube encontrará 3 archivos. 
+Es por ello he decidido subir archivos en la nube personal que me otorga la Universidad Internacional de Valencia, en la nube encontrará 3 archivos. 
 
-Enlace de la nube personal: https://alumnosviu-my.sharepoint.com/personal/mcuevatacuri_alumnos_viu_es/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmcuevatacuri_alumnos_viu_es%2FDocuments%2FTFMVIU_MiguelAngelCuevaTacuri&ga=1
 
 Para la ejecución de tablero interactivo realizado en el software Power BI, se quiere dos archivos para ejecutar:
-1. Dataset resultante después del proyecto:  result.csv
-2. Archivo de la implementación visual en Power BI.: Sentiment.pbix
+1  Dataset inicial
+2. Dataset resultante después del proyecto:  result.csv
+3. Archivo de la implementación visual en Power BI.: Sentiment.pbix
+
+Enlace de la nube personal: https://alumnosviu-my.sharepoint.com/personal/mcuevatacuri_alumnos_viu_es/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmcuevatacuri_alumnos_viu_es%2FDocuments%2FTFMVIU_MiguelAngelCuevaTacuri&ga=1
 
 
 Para realizar el analisis de datos, análisis de sentimientos y entrenar algoritmos de machine learning para la prediccón en clasificación.
